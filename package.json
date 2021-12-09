@@ -1,0 +1,11 @@
+{
+  "name": "consumer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "oci-common": "^2.9.1",
+    "oci-sdk": "^2.9.1",
+    "oci-streaming": "^2.9.1"
+  }
+}
